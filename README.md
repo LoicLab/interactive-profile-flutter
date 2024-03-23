@@ -1,16 +1,11 @@
-# my_profile
+# Interactive profile
 
-profile
+Build an Android application that lets you create a profile and use Android's camera and gallery.
+Use of Flutter 3 interactive widgets and the image_picker package.
 
-## Getting Started
+## Environment
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Android Studio
+- Flutter 3.13.2
+- Dart 3.1.0
+- Git
